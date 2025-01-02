@@ -1,4 +1,6 @@
 # AI-Powered Health Risk Assessment Tool 🏥
+<img width="1463" alt="Screenshot 2025-01-02 at 19 10 12" src="https://github.com/user-attachments/assets/b83dddb4-60f4-439d-8469-f1adc7030093" />
+
 ## Description
 An advanced machine learning-powered application that provides comprehensive health risk assessments based on individual lifestyle factors, medical history, and health indicators. The tool offers personalized health insights and predictive risk analysis to help users understand and manage their health risks.
 ## Features
